@@ -36,7 +36,7 @@ var personas = [
 
 var	controller = Botkit.slackbot({
 	// debug: true
-	// storage: myStorage
+	storage: myStorage
 });
 
 var bot = controller.spawn({

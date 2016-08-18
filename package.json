@@ -4,16 +4,17 @@
   "description": "Slackbot Office-bot",
   "author": "Chris Ellis <chris.ellis@frogdesign.com>",
   "scripts": {
-	"start": "node app.js"
+    "start": "node app.js"
   },
   "main": "app.js",
   "repository": {
-	"type": "git",
-	"url": "https://github.com/ChrisEllis007/slackbot-sydney"
+    "type": "git",
+    "url": "https://github.com/ChrisEllis007/slackbot-sydney"
   },
   "dependencies": {
-	"botkit": "0.2.2",
-	"node-schedule": "1.1.1"
+    "botkit": "0.2.2",
+    "node-schedule": "1.1.1",
+    "pg": "6.1.0"
   },
   "license": "MIT"
 }

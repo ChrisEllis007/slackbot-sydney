@@ -1,0 +1,13 @@
+{
+  "base": {
+	"shutdown": ["shutdown", "get out of hear"],
+	"remove-data-late": ["remove late data"]
+  },
+  "running-late": {
+	"who-is-late": ["who's", "who", "where"],
+	"i-am-late": ["delayed", "late"],
+	"i-am-out-today": ["OOO", "out of office", "not in"],
+	"i-am-sick-today":["ill", "sick", "not feeling well"],
+	"i-am-working-from-home": ["wfh", "WFH", "working from home"]
+  }
+}

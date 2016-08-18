@@ -1,0 +1,7 @@
+{
+  "default": {
+  	"are-you-sure": "Are you sure you want me to shutdown?",
+	"confirm": "Bye!",
+	"cancel": "*Phew!*"
+  }
+}

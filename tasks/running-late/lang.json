@@ -1,0 +1,14 @@
+{
+  "default": {
+    "in-around?": "So you'll be in around @s?",
+    "they-are-in-around": "They will be in at around @s",
+    "ok": "Cool! See you then.",
+    "minor-error": "Feck.  I've stored this info anyway.",
+    "major-error": "Something strange is going on...",
+    "thanks": "Thanks for letting me know @s",
+    "how-late?": "How long after 9.30am are you going to be?",
+    "you-are-ill": "Oh no @s. I hope you're feeling better tomorrow.",
+    "recorded-you": "Ok @s. I've recorded this for today.",
+    "nothing-to-report": "No one has reported anything today."
+  }
+}
